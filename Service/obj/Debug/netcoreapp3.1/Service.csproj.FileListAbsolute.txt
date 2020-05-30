@@ -1,0 +1,9 @@
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\nsara\source\repos\Full Stack Developer - Case\Service\obj\Debug\netcoreapp3.1\Service.pdb
