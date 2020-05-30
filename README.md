@@ -1,4 +1,4 @@
-##Full Stack Developer - Case<br/>
+## Full Stack Developer - Case<br/>
 **Teste para vaga de FullStack na Eleva Educação**<br/><br/>
 
 **Objetivo**<br/>
@@ -9,11 +9,11 @@ Requisitos
 Idealmente o código deverá ser versionado e publicado para a apresentação.<br/><br/>
 
 **Tecnologias/metodologias/princípios que, se utilizados, serão um diferencial na avaliação:**<br/>
--C#<br/>
--Angular<br/>
--S.O.L.I.D. / Clean Code<br/>
--Design Patterns<br/>
--Bootstrap / Foundation / Metro / Etc<br/>
--Responsividade / LESS / SASS<br/>
--OO (Abstrações, Interfaces, Herança, Polimorfismo)<br/>
--NHibernate / Entity<br/>
+- C#<br/>
+- Angular<br/>
+- S.O.L.I.D. / Clean Code<br/>
+- Design Patterns<br/>
+- Bootstrap / Foundation / Metro / Etc<br/>
+- Responsividade / LESS / SASS<br/>
+- OO (Abstrações, Interfaces, Herança, Polimorfismo)<br/>
+- NHibernate / Entity<br/>
