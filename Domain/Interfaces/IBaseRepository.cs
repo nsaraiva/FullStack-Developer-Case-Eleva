@@ -9,9 +9,9 @@ namespace Domain.Interfaces
 
         void Update(T obj);
 
-        void Delete(int id);
+        void Delete(long id);
 
-        T Select(int id);
+        T Select(long id);
 
         IList<T> SelectAll();
     }

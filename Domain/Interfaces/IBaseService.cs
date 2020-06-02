@@ -9,7 +9,7 @@ namespace Domain.Interfaces
 
 		T Put(T obj);
 
-		void Delete(int id);
+		void Delete(long id);
 
 		T Get(long id);
 

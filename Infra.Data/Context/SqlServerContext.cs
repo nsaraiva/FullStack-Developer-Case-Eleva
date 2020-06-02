@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infra.Data.Context
 {
@@ -9,5 +10,8 @@ namespace Infra.Data.Context
         {
 
         }
+
+        public DbSet<Escola> Escola { get; set; }
+        public DbSet<Turma> Turma { get; set; }
     }
 }

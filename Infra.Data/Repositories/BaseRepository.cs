@@ -1,10 +1,8 @@
 ﻿using Domain.Entities;
 using Domain.Interfaces;
 using Infra.Data.Context;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Infra.Data.Repositories
 {
@@ -29,7 +27,7 @@ namespace Infra.Data.Repositories
 			_context.SaveChanges();
 		}
 
-		public void Delete(int id)
+		public void Delete(long id)
 		{
 			_context.Set<T>().Remove(Select(id));
 			_context.SaveChanges();
@@ -40,7 +38,7 @@ namespace Infra.Data.Repositories
 			return _context.Set<T>().ToList();
 		}
 
-		public T Select(int id)
+		public T Select(long id)
 		{
 			return _context.Set<T>().Find(id);
 		}

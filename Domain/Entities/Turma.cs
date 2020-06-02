@@ -3,9 +3,9 @@
 
 namespace Domain.Entities
 {
-    
+
     [Table("Turmas")]
-        class Turma : BaseEntity
+    public class Turma : BaseEntity
     {
         public string Nome { get; set; }
         public string Serie { get; set; }
